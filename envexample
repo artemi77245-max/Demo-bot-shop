@@ -1,0 +1,10 @@
+# Токен бота от @BotFather
+BOT_TOKEN=
+
+# Твой Telegram id для уведомлений о заказах (узнать у @userinfobot)
+ADMIN_ID=
+
+# Прокси для доступа к Telegram (если API недоступен напрямую).
+# Формат: http://ip:port  или  http://user:pass@ip:port
+# Оставь пустым или удали строку, если прокси не нужен.
+PROXY_URL=
