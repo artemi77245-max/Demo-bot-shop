@@ -1,4 +1,3 @@
-# Demo-bot-shop
 # Demo-bot-shop — Telegram-магазин с Mini App
 
 Демо интернет-магазина в Telegram: бот на Python (aiogram) + витрина как
